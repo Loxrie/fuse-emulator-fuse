@@ -97,6 +97,8 @@ volume_beeper, numeric, 100
 volume_specdrum, numeric, 100
 volume_covox, numeric, 100
 
+widget_ui_joy_toggle, numeric, 2
+
 joystick_1, string, NULL, 'j'
 joystick_1_output, numeric, 0
 joystick_1_fire_1, numeric, 4096
